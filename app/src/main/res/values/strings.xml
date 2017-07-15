@@ -1,0 +1,1127 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string-array name="lilo">
+        <item>lala</item>
+    </string-array>
+    <string-array name="ciudades">
+        <item>ABEJORRAL</item>
+        <item>ABREGO</item>
+        <item>ABRIAQUÍ</item>
+        <item>ACACÍAS</item>
+        <item>ACANDÍ</item>
+        <item>ACEVEDO</item>
+        <item>ACHÍ</item>
+        <item>AGRADO</item>
+        <item>AGUA DE DIOS</item>
+        <item>AGUACHICA</item>
+        <item>AGUADA</item>
+        <item>AGUADAS</item>
+        <item>AGUAZUL</item>
+        <item>AGUSTÍN CODAZZI</item>
+        <item>AIPE</item>
+        <item>ALBANIA</item>
+        <item>ALBANIA</item>
+        <item>ALBANIA</item>
+        <item>ALBÁN</item>
+        <item>ALBÁN</item>
+        <item>ALCALÁ</item>
+        <item>ALDANA</item>
+        <item>ALEJANDRÍA</item>
+        <item>ALGARROBO</item>
+        <item>ALGECIRAS</item>
+        <item>ALMAGUER</item>
+        <item>ALMEIDA</item>
+        <item>ALPUJARRA</item>
+        <item>ALTAMIRA</item>
+        <item>ALTO BAUDO</item>
+        <item>ALTOS DEL ROSARIO</item>
+        <item>ALVARADO</item>
+        <item>AMAGÁ</item>
+        <item>AMALFI</item>
+        <item>AMBALEMA</item>
+        <item>ANAPOIMA</item>
+        <item>ANCUYÁ</item>
+        <item>ANDALUCÍA</item>
+        <item>ANDES</item>
+        <item>ANGELÓPOLIS</item>
+        <item>ANGOSTURA</item>
+        <item>ANOLAIMA</item>
+        <item>ANORÍ</item>
+        <item>ANSERMA</item>
+        <item>ANSERMANUEVO</item>
+        <item>ANZA</item>
+        <item>ANZOÁTEGUI</item>
+        <item>APARTADÓ</item>
+        <item>APULO</item>
+        <item>APÍA</item>
+        <item>AQUITANIA</item>
+        <item>ARACATACA</item>
+        <item>ARANZAZU</item>
+        <item>ARATOCA</item>
+        <item>ARAUCA</item>
+        <item>ARAUQUITA</item>
+        <item>ARBELÁEZ</item>
+        <item>ARBOLEDA</item>
+        <item>ARBOLEDAS</item>
+        <item>ARBOLETES</item>
+        <item>ARCABUCO</item>
+        <item>ARENAL</item>
+        <item>ARGELIA</item>
+        <item>ARGELIA</item>
+        <item>ARGELIA</item>
+        <item>ARIGUANÍ</item>
+        <item>ARJONA</item>
+        <item>ARMENIA</item>
+        <item>ARMENIA</item>
+        <item>ARMERO</item>
+        <item>ARROYOHONDO</item>
+        <item>ASTREA</item>
+        <item>ATACO</item>
+        <item>ATRATO</item>
+        <item>AYAPEL</item>
+        <item>BAGADÓ</item>
+        <item>BAHÍA SOLANO</item>
+        <item>BAJO BAUDÓ</item>
+        <item>BALBOA</item>
+        <item>BALBOA</item>
+        <item>BARANOA</item>
+        <item>BARAYA</item>
+        <item>BARBACOAS</item>
+        <item>BARBOSA</item>
+        <item>BARBOSA</item>
+        <item>BARICHARA</item>
+        <item>BARRANCA DE UPÍA</item>
+        <item>BARRANCABERMEJA</item>
+        <item>BARRANCAS</item>
+        <item>BARRANCO DE LOBA</item>
+        <item>BARRANCO MINAS</item>
+        <item>BARRANQUILLA</item>
+        <item>BECERRIL</item>
+        <item>BELALCÁZAR</item>
+        <item>BELLO</item>
+        <item>BELMIRA</item>
+        <item>BELTRÁN</item>
+        <item>BELÉN</item>
+        <item>BELÉN</item>
+        <item>BELÉN DE BAJIRÁ</item>
+        <item>BELÉN DE LOS ANDAQUIES</item>
+        <item>BELÉN DE UMBRÍA</item>
+        <item>BERBEO</item>
+        <item>BETANIA</item>
+        <item>BETULIA</item>
+        <item>BETULIA</item>
+        <item>BETÉITIVA</item>
+        <item>BITUIMA</item>
+        <item>BOAVITA</item>
+        <item>BOCHALEMA</item>
+        <item>BOGOTÁ</item>
+        <item>BOJACÁ</item>
+        <item>BOJAYA</item>
+        <item>BOLÍVAR</item>
+        <item>BOLÍVAR</item>
+        <item>BOLÍVAR</item>
+        <item>BOSCONIA</item>
+        <item>BOYACÁ</item>
+        <item>BRICEÑO</item>
+        <item>BRICEÑO</item>
+        <item>BUCARAMANGA</item>
+        <item>BUCARASICA</item>
+        <item>BUENAVENTURA</item>
+        <item>BUENAVISTA</item>
+        <item>BUENAVISTA</item>
+        <item>BUENAVISTA</item>
+        <item>BUENAVISTA</item>
+        <item>BUENOS AIRES</item>
+        <item>BUESACO</item>
+        <item>BUGALAGRANDE</item>
+        <item>BURITICÁ</item>
+        <item>BUSBANZÁ</item>
+        <item>CABRERA</item>
+        <item>CABRERA</item>
+        <item>CABUYARO</item>
+        <item>CACAHUAL</item>
+        <item>CACHIPAY</item>
+        <item>CACHIRÁ</item>
+        <item>CAICEDO</item>
+        <item>CAICEDONIA</item>
+        <item>CAIMITO</item>
+        <item>CAJAMARCA</item>
+        <item>CAJIBÍO</item>
+        <item>CAJICÁ</item>
+        <item>CALAMAR</item>
+        <item>CALAMAR</item>
+        <item>CALARCA</item>
+        <item>CALDAS</item>
+        <item>CALDAS</item>
+        <item>CALDONO</item>
+        <item>CALI</item>
+        <item>CALIFORNIA</item>
+        <item>CALIMA</item>
+        <item>CALOTO</item>
+        <item>CAMPAMENTO</item>
+        <item>CAMPO DE LA CRUZ</item>
+        <item>CAMPOALEGRE</item>
+        <item>CAMPOHERMOSO</item>
+        <item>CANALETE</item>
+        <item>CANDELARIA</item>
+        <item>CANDELARIA</item>
+        <item>CANTAGALLO</item>
+        <item>CAPARRAPÍ</item>
+        <item>CAPITANEJO</item>
+        <item>CAQUEZA</item>
+        <item>CARACOLÍ</item>
+        <item>CARAMANTA</item>
+        <item>CARCASÍ</item>
+        <item>CAREPA</item>
+        <item>CARMEN DE APICALÁ</item>
+        <item>CARMEN DE CARUPA</item>
+        <item>CARMEN DEL DARIEN</item>
+        <item>CAROLINA</item>
+        <item>CARTAGENA</item>
+        <item>CARTAGENA DEL CHAIRÁ</item>
+        <item>CARTAGO</item>
+        <item>CARURU</item>
+        <item>CASABIANCA</item>
+        <item>CASTILLA LA NUEVA</item>
+        <item>CAUCASIA</item>
+        <item>CAÑASGORDAS</item>
+        <item>CEPITÁ</item>
+        <item>CERETÉ</item>
+        <item>CERINZA</item>
+        <item>CERRITO</item>
+        <item>CERRO SAN ANTONIO</item>
+        <item>CHACHAGÜÍ</item>
+        <item>CHAGUANÍ</item>
+        <item>CHALÁN</item>
+        <item>CHAMEZA</item>
+        <item>CHAPARRAL</item>
+        <item>CHARALÁ</item>
+        <item>CHARTA</item>
+        <item>CHIBOLO</item>
+        <item>CHIGORODÓ</item>
+        <item>CHIMA</item>
+        <item>CHIMICHAGUA</item>
+        <item>CHIMÁ</item>
+        <item>CHINAVITA</item>
+        <item>CHINCHINÁ</item>
+        <item>CHINÁCOTA</item>
+        <item>CHINÚ</item>
+        <item>CHIPAQUE</item>
+        <item>CHIPATÁ</item>
+        <item>CHIQUINQUIRÁ</item>
+        <item>CHIRIGUANÁ</item>
+        <item>CHISCAS</item>
+        <item>CHITA</item>
+        <item>CHITAGÁ</item>
+        <item>CHITARAQUE</item>
+        <item>CHIVATÁ</item>
+        <item>CHIVOR</item>
+        <item>CHOACHÍ</item>
+        <item>CHOCONTÁ</item>
+        <item>CHÍA</item>
+        <item>CHÍQUIZA</item>
+        <item>CICUCO</item>
+        <item>CIMITARRA</item>
+        <item>CIRCASIA</item>
+        <item>CISNEROS</item>
+        <item>CIUDAD BOLÍVAR</item>
+        <item>CIÉNAGA</item>
+        <item>CIÉNAGA DE ORO</item>
+        <item>CIÉNEGA</item>
+        <item>CLEMENCIA</item>
+        <item>COCORNÁ</item>
+        <item>COELLO</item>
+        <item>COGUA</item>
+        <item>COLOMBIA</item>
+        <item>COLOSO</item>
+        <item>COLÓN</item>
+        <item>COLÓN</item>
+        <item>CONCEPCIÓN</item>
+        <item>CONCEPCIÓN</item>
+        <item>CONCORDIA</item>
+        <item>CONCORDIA</item>
+        <item>CONDOTO</item>
+        <item>CONFINES</item>
+        <item>CONSACA</item>
+        <item>CONTADERO</item>
+        <item>CONTRATACIÓN</item>
+        <item>CONVENCIÓN</item>
+        <item>COPACABANA</item>
+        <item>COPER</item>
+        <item>CORINTO</item>
+        <item>COROMORO</item>
+        <item>COROZAL</item>
+        <item>CORRALES</item>
+        <item>COTA</item>
+        <item>COTORRA</item>
+        <item>COVARACHÍA</item>
+        <item>COVEÑAS</item>
+        <item>COYAIMA</item>
+        <item>CRAVO NORTE</item>
+        <item>CUASPUD</item>
+        <item>CUBARRAL</item>
+        <item>CUBARÁ</item>
+        <item>CUCAITA</item>
+        <item>CUCUNUBÁ</item>
+        <item>CUCUTILLA</item>
+        <item>CUMARAL</item>
+        <item>CUMARIBO</item>
+        <item>CUMBAL</item>
+        <item>CUMBITARA</item>
+        <item>CUNDAY</item>
+        <item>CURILLO</item>
+        <item>CURITÍ</item>
+        <item>CURUMANÍ</item>
+        <item>CUÍTIVA</item>
+        <item>CÁCERES</item>
+        <item>CÁCOTA</item>
+        <item>CÉRTEGUI</item>
+        <item>CÓMBITA</item>
+        <item>CÓRDOBA</item>
+        <item>CÓRDOBA</item>
+        <item>CÓRDOBA</item>
+        <item>CÚCUTA</item>
+        <item>DABEIBA</item>
+        <item>DAGUA</item>
+        <item>DIBULLA</item>
+        <item>DISTRACCIÓN</item>
+        <item>DOLORES</item>
+        <item>DON MATÍAS</item>
+        <item>DOSQUEBRADAS</item>
+        <item>DUITAMA</item>
+        <item>DURANIA</item>
+        <item>EBÉJICO</item>
+        <item>EL BAGRE</item>
+        <item>EL BANCO</item>
+        <item>EL CAIRO</item>
+        <item>EL CALVARIO</item>
+        <item>EL CANTÓN DEL SAN PABLO</item>
+        <item>EL CARMEN</item>
+        <item>EL CARMEN DE ATRATO</item>
+        <item>EL CARMEN DE BOLÍVAR</item>
+        <item>EL CARMEN DE CHUCURÍ</item>
+        <item>EL CARMEN DE VIBORAL</item>
+        <item>EL CASTILLO</item>
+        <item>EL CERRITO</item>
+        <item>EL CHARCO</item>
+        <item>EL COCUY</item>
+        <item>EL COLEGIO</item>
+        <item>EL COPEY</item>
+        <item>EL DONCELLO</item>
+        <item>EL DORADO</item>
+        <item>EL DOVIO</item>
+        <item>EL ENCANTO</item>
+        <item>EL ESPINO</item>
+        <item>EL GUACAMAYO</item>
+        <item>EL GUAMO</item>
+        <item>EL LITORAL DEL SAN JUAN</item>
+        <item>EL MOLINO</item>
+        <item>EL PASO</item>
+        <item>EL PAUJIL</item>
+        <item>EL PEÑOL</item>
+        <item>EL PEÑÓN</item>
+        <item>EL PEÑÓN</item>
+        <item>EL PEÑÓN</item>
+        <item>EL PIÑON</item>
+        <item>EL PLAYÓN</item>
+        <item>EL RETORNO</item>
+        <item>EL RETÉN</item>
+        <item>EL ROBLE</item>
+        <item>EL ROSAL</item>
+        <item>EL ROSARIO</item>
+        <item>EL SANTUARIO</item>
+        <item>EL TABLÓN DE GÓMEZ</item>
+        <item>EL TAMBO</item>
+        <item>EL TAMBO</item>
+        <item>EL TARRA</item>
+        <item>EL ZULIA</item>
+        <item>EL ÁGUILA</item>
+        <item>ELÍAS</item>
+        <item>ENCINO</item>
+        <item>ENCISO</item>
+        <item>ENTRERRIOS</item>
+        <item>ENVIGADO</item>
+        <item>ESPINAL</item>
+        <item>FACATATIVÁ</item>
+        <item>FALAN</item>
+        <item>FILADELFIA</item>
+        <item>FILANDIA</item>
+        <item>FIRAVITOBA</item>
+        <item>FLANDES</item>
+        <item>FLORENCIA</item>
+        <item>FLORENCIA</item>
+        <item>FLORESTA</item>
+        <item>FLORIDA</item>
+        <item>FLORIDABLANCA</item>
+        <item>FLORIÁN</item>
+        <item>FOMEQUE</item>
+        <item>FONSECA</item>
+        <item>FORTUL</item>
+        <item>FOSCA</item>
+        <item>FRANCISCO PIZARRO</item>
+        <item>FREDONIA</item>
+        <item>FRESNO</item>
+        <item>FRONTINO</item>
+        <item>FUENTE DE ORO</item>
+        <item>FUNDACIÓN</item>
+        <item>FUNES</item>
+        <item>FUNZA</item>
+        <item>FUSAGASUGÁ</item>
+        <item>FÚQUENE</item>
+        <item>GACHALA</item>
+        <item>GACHANCIPÁ</item>
+        <item>GACHANTIVÁ</item>
+        <item>GACHETÁ</item>
+        <item>GALAPA</item>
+        <item>GALERAS</item>
+        <item>GALÁN</item>
+        <item>GAMA</item>
+        <item>GAMARRA</item>
+        <item>GAMBITA</item>
+        <item>GAMEZA</item>
+        <item>GARAGOA</item>
+        <item>GARZÓN</item>
+        <item>GIGANTE</item>
+        <item>GINEBRA</item>
+        <item>GIRALDO</item>
+        <item>GIRARDOT</item>
+        <item>GIRARDOTA</item>
+        <item>GIRÓN</item>
+        <item>GONZÁLEZ</item>
+        <item>GRAMALOTE</item>
+        <item>GRANADA</item>
+        <item>GRANADA</item>
+        <item>GRANADA</item>
+        <item>GUACA</item>
+        <item>GUACAMAYAS</item>
+        <item>GUACARÍ</item>
+        <item>GUACHETÁ</item>
+        <item>GUACHUCAL</item>
+        <item>GUADALAJARA DE BUGA</item>
+        <item>GUADALUPE</item>
+        <item>GUADALUPE</item>
+        <item>GUADALUPE</item>
+        <item>GUADUAS</item>
+        <item>GUAITARILLA</item>
+        <item>GUALMATÁN</item>
+        <item>GUAMAL</item>
+        <item>GUAMAL</item>
+        <item>GUAMO</item>
+        <item>GUAPI</item>
+        <item>GUAPOTÁ</item>
+        <item>GUARANDA</item>
+        <item>GUARNE</item>
+        <item>GUASCA</item>
+        <item>GUATAPE</item>
+        <item>GUATAQUÍ</item>
+        <item>GUATAVITA</item>
+        <item>GUATEQUE</item>
+        <item>GUAVATÁ</item>
+        <item>GUAYABAL DE SIQUIMA</item>
+        <item>GUAYABETAL</item>
+        <item>GUAYATÁ</item>
+        <item>GUTIÉRREZ</item>
+        <item>GUÁTICA</item>
+        <item>GÉNOVA</item>
+        <item>GÓMEZ PLATA</item>
+        <item>GÜEPSA</item>
+        <item>GÜICÁN</item>
+        <item>HACARÍ</item>
+        <item>HATILLO DE LOBA</item>
+        <item>HATO</item>
+        <item>HATO COROZAL</item>
+        <item>HATONUEVO</item>
+        <item>HELICONIA</item>
+        <item>HERRÁN</item>
+        <item>HERVEO</item>
+        <item>HISPANIA</item>
+        <item>HOBO</item>
+        <item>HONDA</item>
+        <item>IBAGUÉ</item>
+        <item>ICONONZO</item>
+        <item>ILES</item>
+        <item>IMUÉS</item>
+        <item>INZÁ</item>
+        <item>INÍRIDA</item>
+        <item>IPIALES</item>
+        <item>IQUIRA</item>
+        <item>ISNOS</item>
+        <item>ISTMINA</item>
+        <item>ITAGUI</item>
+        <item>ITUANGO</item>
+        <item>IZA</item>
+        <item>JAMBALÓ</item>
+        <item>JAMUNDÍ</item>
+        <item>JARDÍN</item>
+        <item>JENESANO</item>
+        <item>JERICÓ</item>
+        <item>JERICÓ</item>
+        <item>JERUSALÉN</item>
+        <item>JESÚS MARÍA</item>
+        <item>JORDÁN</item>
+        <item>JUAN DE ACOSTA</item>
+        <item>JUNÍN</item>
+        <item>JURADÓ</item>
+        <item>LA APARTADA</item>
+        <item>LA ARGENTINA</item>
+        <item>LA BELLEZA</item>
+        <item>LA CALERA</item>
+        <item>LA CAPILLA</item>
+        <item>LA CEJA</item>
+        <item>LA CELIA</item>
+        <item>LA CHORRERA</item>
+        <item>LA CRUZ</item>
+        <item>LA CUMBRE</item>
+        <item>LA DORADA</item>
+        <item>LA ESPERANZA</item>
+        <item>LA ESTRELLA</item>
+        <item>LA FLORIDA</item>
+        <item>LA GLORIA</item>
+        <item>LA GUADALUPE</item>
+        <item>LA JAGUA DE IBIRICO</item>
+        <item>LA JAGUA DEL PILAR</item>
+        <item>LA LLANADA</item>
+        <item>LA MACARENA</item>
+        <item>LA MERCED</item>
+        <item>LA MESA</item>
+        <item>LA MONTAÑITA</item>
+        <item>LA PALMA</item>
+        <item>LA PAZ</item>
+        <item>LA PAZ</item>
+        <item>LA PEDRERA</item>
+        <item>LA PEÑA</item>
+        <item>LA PINTADA</item>
+        <item>LA PLATA</item>
+        <item>LA PLAYA</item>
+        <item>LA PRIMAVERA</item>
+        <item>LA SALINA</item>
+        <item>LA SIERRA</item>
+        <item>LA TEBAIDA</item>
+        <item>LA TOLA</item>
+        <item>LA UNIÓN</item>
+        <item>LA UNIÓN</item>
+        <item>LA UNIÓN</item>
+        <item>LA UNIÓN</item>
+        <item>LA UVITA</item>
+        <item>LA VEGA</item>
+        <item>LA VEGA</item>
+        <item>LA VICTORIA</item>
+        <item>LA VICTORIA</item>
+        <item>LA VICTORIA</item>
+        <item>LA VIRGINIA</item>
+        <item>LABATECA</item>
+        <item>LABRANZAGRANDE</item>
+        <item>LANDÁZURI</item>
+        <item>LEBRÍJA</item>
+        <item>LEGUÍZAMO</item>
+        <item>LEIVA</item>
+        <item>LEJANÍAS</item>
+        <item>LENGUAZAQUE</item>
+        <item>LETICIA</item>
+        <item>LIBORINA</item>
+        <item>LINARES</item>
+        <item>LLORÓ</item>
+        <item>LORICA</item>
+        <item>LOS ANDES</item>
+        <item>LOS CÓRDOBAS</item>
+        <item>LOS PALMITOS</item>
+        <item>LOS PATIOS</item>
+        <item>LOS SANTOS</item>
+        <item>LOURDES</item>
+        <item>LURUACO</item>
+        <item>LÉRIDA</item>
+        <item>LÍBANO</item>
+        <item>LÓPEZ</item>
+        <item>MACANAL</item>
+        <item>MACARAVITA</item>
+        <item>MACEO</item>
+        <item>MACHETA</item>
+        <item>MADRID</item>
+        <item>MAGANGUÉ</item>
+        <item>MAGÜI</item>
+        <item>MAHATES</item>
+        <item>MAICAO</item>
+        <item>MAJAGUAL</item>
+        <item>MALAMBO</item>
+        <item>MALLAMA</item>
+        <item>MANATÍ</item>
+        <item>MANAURE</item>
+        <item>MANAURE</item>
+        <item>MANIZALES</item>
+        <item>MANTA</item>
+        <item>MANZANARES</item>
+        <item>MANÍ</item>
+        <item>MAPIRIPANA</item>
+        <item>MAPIRIPÁN</item>
+        <item>MARGARITA</item>
+        <item>MARINILLA</item>
+        <item>MARIPÍ</item>
+        <item>MARIQUITA</item>
+        <item>MARMATO</item>
+        <item>MARQUETALIA</item>
+        <item>MARSELLA</item>
+        <item>MARULANDA</item>
+        <item>MARÍA LA BAJA</item>
+        <item>MATANZA</item>
+        <item>MEDELLÍN</item>
+        <item>MEDINA</item>
+        <item>MEDIO ATRATO</item>
+        <item>MEDIO BAUDÓ</item>
+        <item>MEDIO SAN JUAN</item>
+        <item>MELGAR</item>
+        <item>MERCADERES</item>
+        <item>MESETAS</item>
+        <item>MILÁN</item>
+        <item>MIRAFLORES</item>
+        <item>MIRAFLORES</item>
+        <item>MIRANDA</item>
+        <item>MIRITI - PARANÁ</item>
+        <item>MISTRATÓ</item>
+        <item>MITÚ</item>
+        <item>MOCOA</item>
+        <item>MOGOTES</item>
+        <item>MOLAGAVITA</item>
+        <item>MOMIL</item>
+        <item>MOMPÓS</item>
+        <item>MONGUA</item>
+        <item>MONGUÍ</item>
+        <item>MONIQUIRÁ</item>
+        <item>MONTEBELLO</item>
+        <item>MONTECRISTO</item>
+        <item>MONTELÍBANO</item>
+        <item>MONTENEGRO</item>
+        <item>MONTERREY</item>
+        <item>MONTERÍA</item>
+        <item>MORALES</item>
+        <item>MORALES</item>
+        <item>MORELIA</item>
+        <item>MORICHAL</item>
+        <item>MORROA</item>
+        <item>MOSQUERA</item>
+        <item>MOSQUERA</item>
+        <item>MOTAVITA</item>
+        <item>MOÑITOS</item>
+        <item>MURILLO</item>
+        <item>MURINDÓ</item>
+        <item>MUTATÁ</item>
+        <item>MUTISCUA</item>
+        <item>MUZO</item>
+        <item>MÁLAGA</item>
+        <item>NARIÑO</item>
+        <item>NARIÑO</item>
+        <item>NARIÑO</item>
+        <item>NATAGAIMA</item>
+        <item>NECHÍ</item>
+        <item>NECOCLÍ</item>
+        <item>NEIRA</item>
+        <item>NEIVA</item>
+        <item>NEMOCÓN</item>
+        <item>NILO</item>
+        <item>NIMAIMA</item>
+        <item>NOBSA</item>
+        <item>NOCAIMA</item>
+        <item>NORCASIA</item>
+        <item>NUEVA GRANADA</item>
+        <item>NUEVO COLÓN</item>
+        <item>NUNCHÍA</item>
+        <item>NUQUÍ</item>
+        <item>NÁTAGA</item>
+        <item>NÓVITA</item>
+        <item>OBANDO</item>
+        <item>OCAMONTE</item>
+        <item>OCAÑA</item>
+        <item>OIBA</item>
+        <item>OICATÁ</item>
+        <item>OLAYA</item>
+        <item>OLAYA HERRERA</item>
+        <item>ONZAGA</item>
+        <item>OPORAPA</item>
+        <item>ORITO</item>
+        <item>OROCUÉ</item>
+        <item>ORTEGA</item>
+        <item>OSPINA</item>
+        <item>OTANCHE</item>
+        <item>OVEJAS</item>
+        <item>PACHAVITA</item>
+        <item>PACHO</item>
+        <item>PACOA</item>
+        <item>PADILLA</item>
+        <item>PAEZ</item>
+        <item>PAICOL</item>
+        <item>PAILITAS</item>
+        <item>PAIME</item>
+        <item>PAIPA</item>
+        <item>PAJARITO</item>
+        <item>PALERMO</item>
+        <item>PALESTINA</item>
+        <item>PALESTINA</item>
+        <item>PALMAR</item>
+        <item>PALMAR DE VARELA</item>
+        <item>PALMAS DEL SOCORRO</item>
+        <item>PALMIRA</item>
+        <item>PALMITO</item>
+        <item>PALOCABILDO</item>
+        <item>PAMPLONA</item>
+        <item>PAMPLONITA</item>
+        <item>PANA PANA</item>
+        <item>PANDI</item>
+        <item>PANQUEBA</item>
+        <item>PAPUNAUA</item>
+        <item>PARATEBUENO</item>
+        <item>PASCA</item>
+        <item>PASTO</item>
+        <item>PATÍA</item>
+        <item>PAUNA</item>
+        <item>PAYA</item>
+        <item>PAZ DE ARIPORO</item>
+        <item>PAZ DE RÍO</item>
+        <item>PEDRAZA</item>
+        <item>PELAYA</item>
+        <item>PENSILVANIA</item>
+        <item>PEQUE</item>
+        <item>PEREIRA</item>
+        <item>PESCA</item>
+        <item>PEÑOL</item>
+        <item>PIAMONTE</item>
+        <item>PIEDECUESTA</item>
+        <item>PIEDRAS</item>
+        <item>PIENDAMÓ</item>
+        <item>PIJAO</item>
+        <item>PIJIÑO DEL CARMEN</item>
+        <item>PINCHOTE</item>
+        <item>PINILLOS</item>
+        <item>PIOJÓ</item>
+        <item>PISBA</item>
+        <item>PITAL</item>
+        <item>PITALITO</item>
+        <item>PIVIJAY</item>
+        <item>PLANADAS</item>
+        <item>PLANETA RICA</item>
+        <item>PLATO</item>
+        <item>POLICARPA</item>
+        <item>POLONUEVO</item>
+        <item>PONEDERA</item>
+        <item>POPAYÁN</item>
+        <item>PORE</item>
+        <item>POTOSÍ</item>
+        <item>PRADERA</item>
+        <item>PRADO</item>
+        <item>PROVIDENCIA</item>
+        <item>PROVIDENCIA</item>
+        <item>PUEBLO BELLO</item>
+        <item>PUEBLO NUEVO</item>
+        <item>PUEBLO RICO</item>
+        <item>PUEBLORRICO</item>
+        <item>PUEBLOVIEJO</item>
+        <item>PUENTE NACIONAL</item>
+        <item>PUERRES</item>
+        <item>PUERTO ALEGRÍA</item>
+        <item>PUERTO ARICA</item>
+        <item>PUERTO ASÍS</item>
+        <item>PUERTO BERRÍO</item>
+        <item>PUERTO BOYACÁ</item>
+        <item>PUERTO CAICEDO</item>
+        <item>PUERTO CARREÑO</item>
+        <item>PUERTO COLOMBIA</item>
+        <item>PUERTO COLOMBIA</item>
+        <item>PUERTO CONCORDIA</item>
+        <item>PUERTO ESCONDIDO</item>
+        <item>PUERTO GAITÁN</item>
+        <item>PUERTO GUZMÁN</item>
+        <item>PUERTO LIBERTADOR</item>
+        <item>PUERTO LLERAS</item>
+        <item>PUERTO LÓPEZ</item>
+        <item>PUERTO NARE</item>
+        <item>PUERTO NARIÑO</item>
+        <item>PUERTO PARRA</item>
+        <item>PUERTO RICO</item>
+        <item>PUERTO RICO</item>
+        <item>PUERTO RONDÓN</item>
+        <item>PUERTO SALGAR</item>
+        <item>PUERTO SANTANDER</item>
+        <item>PUERTO SANTANDER</item>
+        <item>PUERTO TEJADA</item>
+        <item>PUERTO TRIUNFO</item>
+        <item>PUERTO WILCHES</item>
+        <item>PULÍ</item>
+        <item>PUPIALES</item>
+        <item>PURACÉ</item>
+        <item>PURIFICACIÓN</item>
+        <item>PURÍSIMA</item>
+        <item>PÁCORA</item>
+        <item>PÁEZ</item>
+        <item>PÁRAMO</item>
+        <item>QUEBRADANEGRA</item>
+        <item>QUETAME</item>
+        <item>QUIBDÓ</item>
+        <item>QUIMBAYA</item>
+        <item>QUINCHÍA</item>
+        <item>QUIPILE</item>
+        <item>QUÍPAMA</item>
+        <item>RAGONVALIA</item>
+        <item>RAMIRIQUÍ</item>
+        <item>RECETOR</item>
+        <item>REGIDOR</item>
+        <item>REMEDIOS</item>
+        <item>REMOLINO</item>
+        <item>REPELÓN</item>
+        <item>RESTREPO</item>
+        <item>RESTREPO</item>
+        <item>RETIRO</item>
+        <item>RICAURTE</item>
+        <item>RICAURTE</item>
+        <item>RIOBLANCO</item>
+        <item>RIOFRÍO</item>
+        <item>RIOHACHA</item>
+        <item>RIONEGRO</item>
+        <item>RIONEGRO</item>
+        <item>RIOSUCIO</item>
+        <item>RIOSUCIO</item>
+        <item>RISARALDA</item>
+        <item>RIVERA</item>
+        <item>ROBERTO PAYÁN</item>
+        <item>ROLDANILLO</item>
+        <item>RONCESVALLES</item>
+        <item>RONDÓN</item>
+        <item>ROSAS</item>
+        <item>ROVIRA</item>
+        <item>RÁQUIRA</item>
+        <item>RÍO DE ORO</item>
+        <item>RÍO IRO</item>
+        <item>RÍO QUITO</item>
+        <item>RÍO VIEJO</item>
+        <item>SABANA DE TORRES</item>
+        <item>SABANAGRANDE</item>
+        <item>SABANALARGA</item>
+        <item>SABANALARGA</item>
+        <item>SABANALARGA</item>
+        <item>SABANAS DE SAN ANGEL</item>
+        <item>SABANETA</item>
+        <item>SABOYÁ</item>
+        <item>SAHAGÚN</item>
+        <item>SALADOBLANCO</item>
+        <item>SALAMINA</item>
+        <item>SALAMINA</item>
+        <item>SALAZAR</item>
+        <item>SALDAÑA</item>
+        <item>SALENTO</item>
+        <item>SALGAR</item>
+        <item>SAMACÁ</item>
+        <item>SAMANIEGO</item>
+        <item>SAMANÁ</item>
+        <item>SAMPUÉS</item>
+        <item>SAN AGUSTÍN</item>
+        <item>SAN ALBERTO</item>
+        <item>SAN ANDRÉS</item>
+        <item>SAN ANDRÉS</item>
+        <item>SAN ANDRÉS DE CUERQUÍA</item>
+        <item>SAN ANDRÉS SOTAVENTO</item>
+        <item>SAN ANTERO</item>
+        <item>SAN ANTONIO</item>
+        <item>SAN ANTONIO DEL TEQUENDAMA</item>
+        <item>SAN BENITO</item>
+        <item>SAN BENITO ABAD</item>
+        <item>SAN BERNARDO</item>
+        <item>SAN BERNARDO</item>
+        <item>SAN BERNARDO DEL VIENTO</item>
+        <item>SAN CALIXTO</item>
+        <item>SAN CARLOS</item>
+        <item>SAN CARLOS</item>
+        <item>SAN CARLOS DE GUAROA</item>
+        <item>SAN CAYETANO</item>
+        <item>SAN CAYETANO</item>
+        <item>SAN CRISTÓBAL</item>
+        <item>SAN DIEGO</item>
+        <item>SAN EDUARDO</item>
+        <item>SAN ESTANISLAO</item>
+        <item>SAN FELIPE</item>
+        <item>SAN FERNANDO</item>
+        <item>SAN FRANCISCO</item>
+        <item>SAN FRANCISCO</item>
+        <item>SAN FRANCISCO</item>
+        <item>SAN GIL</item>
+        <item>SAN JACINTO</item>
+        <item>SAN JACINTO DEL CAUCA</item>
+        <item>SAN JERÓNIMO</item>
+        <item>SAN JOAQUÍN</item>
+        <item>SAN JOSÉ</item>
+        <item>SAN JOSÉ DE LA MONTAÑA</item>
+        <item>SAN JOSÉ DE MIRANDA</item>
+        <item>SAN JOSÉ DE PARE</item>
+        <item>SAN JOSÉ DEL FRAGUA</item>
+        <item>SAN JOSÉ DEL GUAVIARE</item>
+        <item>SAN JOSÉ DEL PALMAR</item>
+        <item>SAN JUAN DE ARAMA</item>
+        <item>SAN JUAN DE BETULIA</item>
+        <item>SAN JUAN DE RÍO SECO</item>
+        <item>SAN JUAN DE URABÁ</item>
+        <item>SAN JUAN DEL CESAR</item>
+        <item>SAN JUAN NEPOMUCENO</item>
+        <item>SAN JUANITO</item>
+        <item>SAN LORENZO</item>
+        <item>SAN LUIS</item>
+        <item>SAN LUIS</item>
+        <item>SAN LUIS DE GACENO</item>
+        <item>SAN LUIS DE PALENQUE</item>
+        <item>SAN LUIS DE SINCÉ</item>
+        <item>SAN MARCOS</item>
+        <item>SAN MARTÍN</item>
+        <item>SAN MARTÍN</item>
+        <item>SAN MARTÍN DE LOBA</item>
+        <item>SAN MATEO</item>
+        <item>SAN MIGUEL</item>
+        <item>SAN MIGUEL</item>
+        <item>SAN MIGUEL DE SEMA</item>
+        <item>SAN ONOFRE</item>
+        <item>SAN PABLO</item>
+        <item>SAN PABLO</item>
+        <item>SAN PABLO DE BORBUR</item>
+        <item>SAN PEDRO</item>
+        <item>SAN PEDRO</item>
+        <item>SAN PEDRO</item>
+        <item>SAN PEDRO DE CARTAGO</item>
+        <item>SAN PEDRO DE URABA</item>
+        <item>SAN PELAYO</item>
+        <item>SAN RAFAEL</item>
+        <item>SAN ROQUE</item>
+        <item>SAN SEBASTIÁN</item>
+        <item>SAN SEBASTIÁN DE BUENAVISTA</item>
+        <item>SAN VICENTE</item>
+        <item>SAN VICENTE DE CHUCURÍ</item>
+        <item>SAN VICENTE DEL CAGUÁN</item>
+        <item>SAN ZENÓN</item>
+        <item>SANDONÁ</item>
+        <item>SANTA ANA</item>
+        <item>SANTA BÁRBARA</item>
+        <item>SANTA BÁRBARA</item>
+        <item>SANTA BÁRBARA</item>
+        <item>SANTA BÁRBARA DE PINTO</item>
+        <item>SANTA CATALINA</item>
+        <item>SANTA HELENA DEL OPÓN</item>
+        <item>SANTA ISABEL</item>
+        <item>SANTA LUCÍA</item>
+        <item>SANTA MARTA</item>
+        <item>SANTA MARÍA</item>
+        <item>SANTA MARÍA</item>
+        <item>SANTA ROSA</item>
+        <item>SANTA ROSA</item>
+        <item>SANTA ROSA DE CABAL</item>
+        <item>SANTA ROSA DE OSOS</item>
+        <item>SANTA ROSA DE VITERBO</item>
+        <item>SANTA ROSA DEL SUR</item>
+        <item>SANTA ROSALÍA</item>
+        <item>SANTA SOFÍA</item>
+        <item>SANTACRUZ</item>
+        <item>SANTAFÉ DE ANTIOQUIA</item>
+        <item>SANTANA</item>
+        <item>SANTANDER DE QUILICHAO</item>
+        <item>SANTIAGO</item>
+        <item>SANTIAGO</item>
+        <item>SANTIAGO DE TOLÚ</item>
+        <item>SANTO DOMINGO</item>
+        <item>SANTO TOMÁS</item>
+        <item>SANTUARIO</item>
+        <item>SAPUYES</item>
+        <item>SARAVENA</item>
+        <item>SARDINATA</item>
+        <item>SASAIMA</item>
+        <item>SATIVANORTE</item>
+        <item>SATIVASUR</item>
+        <item>SEGOVIA</item>
+        <item>SESQUILÉ</item>
+        <item>SEVILLA</item>
+        <item>SIACHOQUE</item>
+        <item>SIBATÉ</item>
+        <item>SIBUNDOY</item>
+        <item>SILOS</item>
+        <item>SILVANIA</item>
+        <item>SILVIA</item>
+        <item>SIMACOTA</item>
+        <item>SIMIJACA</item>
+        <item>SIMITÍ</item>
+        <item>SINCELEJO</item>
+        <item>SIPÍ</item>
+        <item>SITIONUEVO</item>
+        <item>SOACHA</item>
+        <item>SOATÁ</item>
+        <item>SOCHA</item>
+        <item>SOCORRO</item>
+        <item>SOCOTÁ</item>
+        <item>SOGAMOSO</item>
+        <item>SOLANO</item>
+        <item>SOLEDAD</item>
+        <item>SOLITA</item>
+        <item>SOMONDOCO</item>
+        <item>SONSON</item>
+        <item>SOPETRÁN</item>
+        <item>SOPLAVIENTO</item>
+        <item>SOPÓ</item>
+        <item>SORA</item>
+        <item>SORACÁ</item>
+        <item>SOTAQUIRÁ</item>
+        <item>SOTARA</item>
+        <item>SUAITA</item>
+        <item>SUAN</item>
+        <item>SUAZA</item>
+        <item>SUBACHOQUE</item>
+        <item>SUCRE</item>
+        <item>SUCRE</item>
+        <item>SUCRE</item>
+        <item>SUESCA</item>
+        <item>SUPATÁ</item>
+        <item>SUPÍA</item>
+        <item>SURATÁ</item>
+        <item>SUSA</item>
+        <item>SUSACÓN</item>
+        <item>SUTAMARCHÁN</item>
+        <item>SUTATAUSA</item>
+        <item>SUTATENZA</item>
+        <item>SUÁREZ</item>
+        <item>SUÁREZ</item>
+        <item>SÁCAMA</item>
+        <item>SÁCHICA</item>
+        <item>TABIO</item>
+        <item>TADÓ</item>
+        <item>TALAIGUA NUEVO</item>
+        <item>TAMALAMEQUE</item>
+        <item>TAME</item>
+        <item>TAMINANGO</item>
+        <item>TANGUA</item>
+        <item>TARAIRA</item>
+        <item>TARAPACÁ</item>
+        <item>TARAZÁ</item>
+        <item>TARQUI</item>
+        <item>TARSO</item>
+        <item>TASCO</item>
+        <item>TAURAMENA</item>
+        <item>TAUSA</item>
+        <item>TELLO</item>
+        <item>TENA</item>
+        <item>TENERIFE</item>
+        <item>TENJO</item>
+        <item>TENZA</item>
+        <item>TEORAMA</item>
+        <item>TERUEL</item>
+        <item>TESALIA</item>
+        <item>TIBACUY</item>
+        <item>TIBANÁ</item>
+        <item>TIBASOSA</item>
+        <item>TIBIRITA</item>
+        <item>TIBÚ</item>
+        <item>TIERRALTA</item>
+        <item>TIMANÁ</item>
+        <item>TIMBIQUÍ</item>
+        <item>TIMBÍO</item>
+        <item>TINJACÁ</item>
+        <item>TIPACOQUE</item>
+        <item>TIQUISIO</item>
+        <item>TITIRIBÍ</item>
+        <item>TOCA</item>
+        <item>TOCAIMA</item>
+        <item>TOCANCIPÁ</item>
+        <item>TOGÜÍ</item>
+        <item>TOLEDO</item>
+        <item>TOLEDO</item>
+        <item>TOLÚ VIEJO</item>
+        <item>TONA</item>
+        <item>TOPAIPÍ</item>
+        <item>TORIBIO</item>
+        <item>TORO</item>
+        <item>TOTA</item>
+        <item>TOTORÓ</item>
+        <item>TRINIDAD</item>
+        <item>TRUJILLO</item>
+        <item>TUBARÁ</item>
+        <item>TULUÁ</item>
+        <item>TUMACO</item>
+        <item>TUNJA</item>
+        <item>TUNUNGUÁ</item>
+        <item>TURBACO</item>
+        <item>TURBANÁ</item>
+        <item>TURBO</item>
+        <item>TURMEQUÉ</item>
+        <item>TUTA</item>
+        <item>TUTAZÁ</item>
+        <item>TÁMARA</item>
+        <item>TÁMESIS</item>
+        <item>TÓPAGA</item>
+        <item>TÚQUERRES</item>
+        <item>UBALÁ</item>
+        <item>UBAQUE</item>
+        <item>ULLOA</item>
+        <item>UMBITA</item>
+        <item>UNE</item>
+        <item>UNGUÍA</item>
+        <item>UNIÓN PANAMERICANA</item>
+        <item>URAMITA</item>
+        <item>URIBE</item>
+        <item>URIBIA</item>
+        <item>URRAO</item>
+        <item>URUMITA</item>
+        <item>USIACURÍ</item>
+        <item>VALDIVIA</item>
+        <item>VALENCIA</item>
+        <item>VALLE DE SAN JOSÉ</item>
+        <item>VALLE DE SAN JUAN</item>
+        <item>VALLE DEL GUAMUEZ</item>
+        <item>VALLEDUPAR</item>
+        <item>VALPARAÍSO</item>
+        <item>VALPARAÍSO</item>
+        <item>VEGACHÍ</item>
+        <item>VENADILLO</item>
+        <item>VENECIA</item>
+        <item>VENECIA</item>
+        <item>VENTAQUEMADA</item>
+        <item>VERGARA</item>
+        <item>VERSALLES</item>
+        <item>VETAS</item>
+        <item>VIANÍ</item>
+        <item>VICTORIA</item>
+        <item>VIGÍA DEL FUERTE</item>
+        <item>VIJES</item>
+        <item>VILLA CARO</item>
+        <item>VILLA DE LEYVA</item>
+        <item>VILLA DE SAN DIEGO DE UBATE</item>
+        <item>VILLA DEL ROSARIO</item>
+        <item>VILLA RICA</item>
+        <item>VILLAGARZÓN</item>
+        <item>VILLAGÓMEZ</item>
+        <item>VILLAHERMOSA</item>
+        <item>VILLAMARÍA</item>
+        <item>VILLANUEVA</item>
+        <item>VILLANUEVA</item>
+        <item>VILLANUEVA</item>
+        <item>VILLANUEVA</item>
+        <item>VILLAPINZÓN</item>
+        <item>VILLARRICA</item>
+        <item>VILLAVICENCIO</item>
+        <item>VILLAVIEJA</item>
+        <item>VILLETA</item>
+        <item>VIOTÁ</item>
+        <item>VIRACACHÁ</item>
+        <item>VISTAHERMOSA</item>
+        <item>VITERBO</item>
+        <item>VÉLEZ</item>
+        <item>YACOPÍ</item>
+        <item>YACUANQUER</item>
+        <item>YAGUARÁ</item>
+        <item>YALÍ</item>
+        <item>YARUMAL</item>
+        <item>YAVARATÉ</item>
+        <item>YOLOMBÓ</item>
+        <item>YONDÓ</item>
+        <item>YOPAL</item>
+        <item>YOTOCO</item>
+        <item>YUMBO</item>
+        <item>ZAMBRANO</item>
+        <item>ZAPATOCA</item>
+        <item>ZAPAYÁN</item>
+        <item>ZARAGOZA</item>
+        <item>ZARZAL</item>
+        <item>ZETAQUIRA</item>
+        <item>ZIPACÓN</item>
+        <item>ZIPAQUIRÁ</item>
+        <item>ZONA BANANERA</item>
+        <item>ÚTICA</item>
+    </string-array>
+</resources>
